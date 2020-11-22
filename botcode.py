@@ -32,4 +32,4 @@ async def Yeet(ctx):
 async def introduce(ctx): 
     await ctx.send('Hey My Name Is Corrupt Clan Bot Made By Loodie09')
 
-client.run('Nzc4NjUwMjYyOTIzMTE2NTQ3.X7VEkQ.z33cMT_0fPgbhB6Tycve8m5V_dY')
+client.run('Put Bot Token Here')
